@@ -1,4 +1,4 @@
-# Hecho con gusto por Carla Carolina Pérez Hernández (UAEH)
+# Hecho con gusto por Juan Antonio González Sierra (UAEH)
 #V5
 # LABORATORIO - Gráficos en R con ggplot2 para Ciencia de Datos
 # Boxplot en R (diagrama de cajas y bigotes)
